@@ -1,2 +1,4 @@
 # ubuntu
-Basic Ubuntu Docker image.
+
+Basic Linux Docker images.
+
