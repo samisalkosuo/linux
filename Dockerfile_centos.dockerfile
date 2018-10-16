@@ -1,6 +1,6 @@
 FROM centos:7
 
-RUN yum -y install bind-utils net-tools wget
+RUN yum -y install bind-utils net-tools wget nmap 
 
 WORKDIR /root
 COPY shell.sh .
